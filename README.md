@@ -28,7 +28,7 @@ Before -
 
 <div align = "center">
 <kbd>
-<img src="images/image.png" alt="alt text" width="450"/>
+<img src="./images/image.png" alt="alt text" width="450"/>
 </kbd>
 </div>
 
@@ -36,6 +36,6 @@ After -
 
 <div align = "center">
 <kbd>
-<img src="images/image-1.png" alt="alt text" width="450"/>
+<img src="./images/image-1.png" alt="alt text" width="450"/>
 </kbd>
 </div>
